@@ -1,8 +1,10 @@
 -Descripción:
+
 Aplicación móvil desarrollada en React Native con Expo que permite monitorear datos de salud y actividad física.
 
 
 -Funcionalidades principales:
+
 Registro de pasos diarios
 
 Consejos de salud 
